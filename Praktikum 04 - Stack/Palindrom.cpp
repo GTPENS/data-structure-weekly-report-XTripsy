@@ -2,8 +2,8 @@
 #include <stack>
 #include <string>
 
-//Nama: Ali Imron Dimyati
-//NRP: 5223600003
+//Nama: Aditya Muhammad Ifanrus
+//NRP: 5223600009
 
 bool isPalindrome(const std::string& str) {
 std::stack<char> stack;
